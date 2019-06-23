@@ -24,18 +24,13 @@ date_format = "Jan 2006"
   location = "Boise, Idaho"
   date_start = "2017-07-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  """
 
 [[experience]]
   title = "Visiting Assistant Professor"
   company = "Boise State University, School of Public Service"
   company_url = ""
-  location = "California"
+  location = "Idaho"
   date_start = "2016-07-01"
   date_end = "2017-06-31"
-  description = """
-  """
 
 +++
