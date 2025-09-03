@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Assistant Professor of Public Policy & Administration"
+role = "Associate Professor of Public Policy & Administration"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -82,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an assistant professor of public administration in the School of Public Service at Boise State University. My research focuses on public management and higher education.
+I am an associate professor of public administration in the School of Public Service at Boise State University. My research focuses on public management and higher education.
