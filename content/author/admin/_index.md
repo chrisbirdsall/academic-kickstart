@@ -82,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am an associate professor of public administration in the School of Public Service at Boise State University. My research focuses on public management and higher education.
+I am an associate professor of public policy and administration in the School of Public Service at Boise State University. My research focuses on public management and higher education.
