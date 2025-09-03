@@ -16,7 +16,7 @@ role = "Associate Professor of Public Policy & Administration"
 organizations = [ { name = "Boise State University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include public management and higher education."
+bio = "My research interests include public management, higher education, and public policy analysis."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
